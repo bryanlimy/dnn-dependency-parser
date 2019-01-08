@@ -18,5 +18,5 @@ python3 model.py --optimizer=adam --lr=0.001 --activation=relu --hidden=4 --hidd
 #### Result
 || Original Result | Adam ReLU 4 layers |
 |---|---|---|
-|LAS| 92.0 | 90.1 |
-|UAS| 90.7 | 91.3 |
+|LAS| 90.7 | 90.1 |
+|UAS| 92.0 | 91.3 |
