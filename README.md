@@ -1,5 +1,5 @@
 ## Neural Dependency Parser
-A Neural Dependency Parser using TensorFlow based on [A Fast and Accurate Dependency Parser using Neural Networks](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf).
+A Neural Dependency Parser using TensorFlow based on [A Fast and Accurate Dependency Parser using Neural Networks](https://nlp.stanford.edu/pubs/emnlp2014-depparser.pdf).
 
 #### How to run
 ```
